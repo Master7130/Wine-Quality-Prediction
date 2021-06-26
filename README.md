@@ -2,6 +2,9 @@ This repository includes 2 datasets, winequality-red.csv and windquality-white.c
 
 
 Update #1 06/26/2021:
+
 Used seaborn pairplot function on the numeric features of the dataset
+
 Added random forest regressor
+
 Added more comments
